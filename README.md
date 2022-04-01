@@ -1,7 +1,12 @@
 # BigData_assignment2
 
-Teammates: Tejas Bobhate txb190021
-           Miranda Ferrer mxf200008
+Teammates: 
+
+Tejas Bobhate txb190021
+
+Miranda Ferrer mxf200008
+
+
 
 
 For Q1
